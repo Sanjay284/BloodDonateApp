@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mwe-interns-assignment",
+  "private_key_id": "660bbee9730e338e2e0dc129bd743480c99aaa7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChgYIfCfMpFHfN\ny1dS5pYAYx+2tIMMMhqT/xgDS8eONbpII/O6aEF0brn4areDtAD3/Q528aeIJtDM\nwiGAEWDLiIQYS3ie1ejK4lEM1bzi0sJ2o6DG6DGf3RQkIRPMpwwhBH4yGR5WE5jJ\nJlVD6zBDhQ+ErXAJ56Bb60nnZFYEEvWTbfVRlkAVi+iPgZFQ+GCUotyzBpok2+qg\nXB51IeMi1wdYP8SvcfmiExrH5/jmlyTRQCciJOArR2kHlHG5VibT2iwzuxDfTYLq\nvA7sRx+B/24rTgp7Qf4JYdrkTIjCd+FU/Q7+EWRuwB/I79REUh0cWyhsAig++rB3\nfEYBWeoHAgMBAAECggEADcbJ/l3PPnopfLDTYmtFm64uPrEyhdrMRkLkndCxVWHN\n4b4iBIzvcGrK4EmHcpZAiDwvfK6WYi3Kx9Hoy6Tagzds6n7y62bxyZn5MfAVgapa\nvjCs/pVAjmjBrBH06hMhx2XmYd2fUdZaxRBzsNciByXAMiAdRisE6cet8S1aN6ny\nIuMwSepZ8sm/od4MmwWBo/JJGcUUXeOFlw4PxB/vPggR3zoqQFdipEh0QerPMI3R\nPKGlq23RU4KN4JuPYtXuj3QsvCTa959XjaTxZxcsgsk+BfCoEqku72iaRnANUXgl\n7GnhGat+o0+iAQGalKYrkUskfBr/K/vVHI71u1QlqQKBgQDiEv4g8yMJqc9YVsZB\nrdTiJnr0kvvKrX1Sav0DTeD2CY9DHl+sBiXkOsT5XH3n5fgse8pW1uNMf5o5kyKJ\nfTg4Fqat89WPd6Apqr2EkbCBNjX3quktws82a53ZQeXw+DpZGm0tQY7uPdrM5zVZ\nC/Mkk3lzwjv90iI2GjJXw7kuZQKBgQC24nsSRto5KXzMv1kfsDr8bszl4PYXHnl3\n9XXAXf2IN7QOkMoX92wIadWvQUvx3JDn44Q1oZHNfhozmXDyH5K3zMhzQoaGZ7Vy\nLWzepIC/VIOm7WGr3BgocSs5SWThFM0ThYjlzVWV270C3eZW+If94vSFi7Yr0KzF\ngjXQZppp+wKBgApq7aL/EUJEvPVJKmGkbQbu1wOmMkwoqnm9zGL2l8M+tYdWQvpe\nXiiiPKlxBaxGAKWsHqrZxCemSakViqXjS0/qW0vwzIqL7Kl+4LTXMdcCdIIxMgWV\n0I6lbuSwELSF+8pXWWiYeMmpuAdxMBgmYNHyqcoXzUPpBwKPOnqo3kOxAoGAHYbh\nYekIkJQPLytxozkbvOfSswaoFMF50RFTSpSiO1zq+DMOPeJXkeAsfNgo/8qhpp7I\nGLSWSrwiVNRgNOc+E+i/MES8XXTfCakl26hplPp7KvdGfq3RRK5I0T31SJXIKm+z\n045cVA6fLJhQ+Re1NRtwaSNObTKKwnSsZZI7OgMCgYEAkxy3KWdOeoUNOn63rM3+\nIXfz+Me38QqWhNdp6e/cID6nOTDRQRykDARg+qqU+Hc/UFm7Av/2vMJnI1B2/Wc1\nY9FWnA+1O2cHKKOU/Cq9l/cIby05C+jE/H41ppB0nV5UaSLWW/N7H+KlRQOLNzV0\nng4irbiocRYYdDEB/f9x2/g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mwe-interns-kindle-sa@mwe-interns-assignment.iam.gserviceaccount.com",
+  "client_id": "105694406067856062725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mwe-interns-kindle-sa%40mwe-interns-assignment.iam.gserviceaccount.com"
+}
